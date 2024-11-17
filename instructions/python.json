@@ -1,0 +1,67 @@
+[
+    {
+        "id": "typing",
+        "text": "Annotate functions with type hints. Use types like list[...] and dict[..., ...] instead of List and Dict from the typing module. For optional types, use the pipe syntax (e.g., int | None)."
+    },
+    {
+        "id": "seaborn",
+        "text": "Use seaborn for plotting. Define title, labels, and pastel palette for style."
+    },
+    {
+        "id": "pandas",
+        "text": "Use pandas for data manipulation. Utilize read_csv(), head(), and describe() for data exploration."
+    },
+    {
+        "id": "polars",
+        "text": "Use Polars for data manipulation."
+    },
+    {
+        "id": "numpy",
+        "text": "Use NumPy for numerical operations. Utilize np.array, np.arange, and np.linspace for creating arrays."
+    },
+    {
+        "id": "matplotlib",
+        "text": "Use Matplotlib for plotting. Set titles, labels, and styles for plots."
+    },
+    {
+        "id": "jupyter",
+        "text": "Use Jupyter notebooks for interactive coding. Use markdown cells for documentation."
+    },
+    {
+        "id": "flask",
+        "text": "Use Flask for web development. Define routes, templates, and forms for web applications."
+    },
+    {
+        "id": "fastapi",
+        "text": "Use FastAPI for web development. Define routes, models, and dependencies for web applications."
+    },
+    {
+        "id": "django",
+        "text": "Use Django for web development. Define models, views, and templates for web applications."
+    },
+    {
+        "id": "sqlalchemy",
+        "text": "Use SQLAlchemy for database access. Define models, queries, and sessions for database operations."
+    },
+    {
+        "id": "pytest",
+        "text": "Use pytest for testing. Define test functions, fixtures, and assertions for unit tests."
+    },
+    {
+        "id": "requests",
+        "text": "Use requests for HTTP requests. Define methods, headers, and parameters for API calls."
+    },
+    {
+        "id": "scikit-learn",
+        "text": "Use scikit-learn for machine learning. Define models, features, and metrics for predictive analytics."
+    },
+    {
+        "id": "tensorflow",
+        "text": "Use TensorFlow for deep learning. Define layers, optimizers, and losses for neural networks."
+    },
+    {
+        "id": "keras",
+        "text": "Use Keras for deep learning. Define models, layers, and callbacks for neural networks."
+    }
+]
+
